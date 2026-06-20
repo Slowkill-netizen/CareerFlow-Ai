@@ -1,0 +1,6 @@
+{
+  "name": "CareerFlow AI",
+  "description": "Accelerate your career journey. Track job applications, tailor resumes to job specs, generate high-converting cover letters, and rehearse with an interactive AI mock interview coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
